@@ -7,7 +7,7 @@ A collection of quick-install modules for the [Pylon](https://pylon.bot) bot.
 
 
 ## All modules
-> * not done lmao
+> * [Autorole](https://github.com/pylonmodules/autorole)
 
 ### Want to contribute a module?
 If you want to contribute a module, please make a pull request on the guide repository. A contribution guide will be added soon.
