@@ -7,7 +7,7 @@ A collection of quick-install modules for the [Pylon](https://pylon.bot) bot.
 
 
 ## All modules
-> * [Simple welcome module]()
+> * not done lmao
 
 ### Want to contribute a module?
 If you want to contribute a module, please make a pull request on the guide repository. A contribution guide will be added soon.
