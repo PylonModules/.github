@@ -8,7 +8,7 @@ A collection of quick-install modules for the [Pylon](https://pylon.bot) bot.
 
 ## All modules
 * [Autorole](https://github.com/pylonmodules/autorole)
-* [Chat revive](https://github.com/pylonmodules/chstrevive)
+* [Chat revive](https://github.com/pylonmodules/chatrevive)
 * [Auto-publisher](https://github.com/pylonmodules/autopublisher)
 
 ### Want to contribute a module?
